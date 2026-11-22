@@ -19,6 +19,7 @@ Game Sense is a data analytics project that explores esports gaming performance 
 - Records: 250,000 rows
 - Original columns: 13
 - Columns after feature engineering: 16
+- Dataset Availability: The complete raw dataset is included in this repository. A sample of 10,000 rows from the cleaned dataset is provided for demonstration due to file size limitations. The complete cleaned dataset is retained separately.
 
 🛠️ Tools & Technologies
 
@@ -60,3 +61,5 @@ P. Ajith
 🏁 Conclusion
 
 This project helped explore esports data using Python and Power BI and understand how gaming habits and health-related factors are associated with gaming performance.
+
+
